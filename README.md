@@ -43,5 +43,4 @@ AI-powered chest X-ray disease detection and automated medical report generation
 - AI-powered real estate assistant
 - LLM workflows with LangGraph
 - Retrieval-Augmented Generation systems
-- Practical AI engineering portfolio
-- 
+

@@ -1,5 +1,4 @@
-
-## Featured Project# Hi, I'm Noura Saleh 👋
+# Hi, I'm Noura Saleh 👋
 
 **AI Engineer** focused on building practical intelligent systems using machine learning and modern LLM technologies.
 

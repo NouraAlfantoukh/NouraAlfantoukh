@@ -7,7 +7,6 @@
 - Computer Science graduate  
 - Working in AI engineering with focus on NLP and applied AI systems  
 - Interested in LLMs, RAG pipelines, LangGraph, and real-world AI products  
-- Background in medical AI projects using deep learning  
 - Currently growing toward advanced AI engineering roles
 
 ## Tech Stack

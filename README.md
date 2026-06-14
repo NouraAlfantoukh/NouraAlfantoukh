@@ -1,45 +1,122 @@
 # Hi, I'm Noura Saleh 👋
 
-**AI Engineer** focused on building practical intelligent systems using machine learning and modern LLM technologies.
+### AI Engineer | AWS Certified AI Practitioner
+
+Building production-grade AI systems, enterprise RAG platforms, and agentic applications powered by LLMs.
+
+---
 
 ## About Me
 
-- Computer Science graduate  
-- Working in AI engineering with focus on NLP and applied AI systems  
-- Interested in LLMs, RAG pipelines, LangGraph, and real-world AI products  
-- Currently growing toward advanced AI engineering roles
+* AI Engineer specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI Systems
+* Computer Science graduate with First-Class Honors
+* AWS Certified AI Practitioner
+* Experienced in designing and deploying enterprise AI solutions serving hundreds of users across multiple business domains
+* Passionate about transforming cutting-edge AI research into scalable real-world products
+
+---
+
+## Areas of Expertise
+
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Multi-Agent Systems
+* NLP & Information Retrieval
+* Enterprise Knowledge Systems
+* Backend Development & APIs
+* Cloud AI Infrastructure
+* AI Product Development
+
+---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+### AI & Machine Learning
 
-## Current Focus
+Python • TensorFlow • NLP • Deep Learning • Embeddings • Prompt Engineering
 
-- LLM Applications  
-- Retrieval-Augmented Generation (RAG)  
-- AI Agents & LangGraph Workflows  
-- NLP Systems  
-- Production AI Tools
+### Agent Frameworks
 
-## Featured Project
+LangGraph • LangChain
+
+### Cloud & Infrastructure
+
+Docker • AWS Bedrock • EC2 • S3 • IAM
+
+### Databases
+
+PostgreSQL • SQLite • MongoDB • Qdrant
+
+### Backend
+
+FastAPI • REST APIs
+
+### Development
+
+Git • System Design • Technical Documentation
+
+---
+
+## Highlighted Projects
+
+### Enterprise RAG Platform
+
+Built an Arabic-first enterprise knowledge platform supporting HR, Finance, Sales, and Operations teams.
+
+Key features:
+
+* Hybrid Retrieval (Dense + BM25 + RRF)
+* Multi-Agent Architecture
+* Role-Based Access Control
+* PII Protection
+* Query Rewriting & Guardrails
+* AWS Bedrock + Claude Integration
+* Qdrant Vector Database
+
+Impact:
+
+* Supports hundreds of enterprise users
+* Improves organizational knowledge accessibility
+* Enables secure AI-powered information retrieval
+
+
+---
 
 ### DeepRay AI
-AI-powered chest X-ray disease detection and automated medical report generation using deep learning.
 
-## Connect With Me
+AI-powered medical assistant for chest X-ray analysis and automated report generation.
 
-- LinkedIn: https://www.linkedin.com/in/noura-alfantoukh-23540023b/
-- Email: noo3400@gmail.com
+Features:
+
+* CNN-based disease detection
+* Medical report generation
+* Computer Vision + NLP integration
+* Full-stack platform for diagnosis support
+
+---
+
+## Certifications
+
+* AWS Certified AI Practitioner (AIF-C01)
+* Deep Learning Specialization
+* Big Data Program (MCIT)
+
+---
 
 ## Currently Building
 
-- AI-powered real estate assistant
-- LLM workflows with LangGraph
-- Retrieval-Augmented Generation systems
+* Enterprise RAG Systems
+* Multi-Agent AI Workflows
+* LLM-Powered Business Assistants
+* AI Knowledge Platforms
+* Production AI Applications
 
+---
+
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/noura-alfantoukh-23540023b](http://www.linkedin.com/in/noura-alfantoukh-23540023b)
+
+Email:
+[norah.alfantoukh@gmail.com](mailto:norah.alfantoukh@gmail.com)
